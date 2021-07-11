@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WhatToCook/static/css/main.0cb2b47d.chunk.css",
-    "main.js": "/WhatToCook/static/js/main.881cc199.chunk.js",
-    "main.js.map": "/WhatToCook/static/js/main.881cc199.chunk.js.map",
+    "main.js": "/WhatToCook/static/js/main.5c25da1f.chunk.js",
+    "main.js.map": "/WhatToCook/static/js/main.5c25da1f.chunk.js.map",
     "runtime-main.js": "/WhatToCook/static/js/runtime-main.702d8123.js",
     "runtime-main.js.map": "/WhatToCook/static/js/runtime-main.702d8123.js.map",
     "static/js/2.6846f7b4.chunk.js": "/WhatToCook/static/js/2.6846f7b4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.702d8123.js",
     "static/js/2.6846f7b4.chunk.js",
     "static/css/main.0cb2b47d.chunk.css",
-    "static/js/main.881cc199.chunk.js"
+    "static/js/main.5c25da1f.chunk.js"
   ]
 }
